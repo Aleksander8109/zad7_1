@@ -1,5 +1,0 @@
-json
-streamlit
-pandas
-pycaret.clustering  
-plotly.express
